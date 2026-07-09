@@ -17,6 +17,14 @@
 
 <!-- Social Badges -->
 <p align="center">
+  <a href="https://www.linkedin.com/in/arehman-builds" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  &nbsp;
+  <a href="mailto:relentlessrehman@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  &nbsp;
   <a href="https://github.com/rehmanoncloud9" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
@@ -145,6 +153,8 @@ fun_fact:   Built raabta-ai for Pakistan's AI Seekho 2026 — Google Antigravity
 
 | Platform | Link |
 |:---:|:---:|
+| LinkedIn | [arehman-builds](https://www.linkedin.com/in/arehman-builds) |
+| Email | [relentlessrehman@gmail.com](mailto:relentlessrehman@gmail.com) |
 | GitHub | [@rehmanoncloud9](https://github.com/rehmanoncloud9) |
 
 <br/>
