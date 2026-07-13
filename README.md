@@ -27,7 +27,7 @@
 
 <br/>
 
-## 👨‍💻 About Me
+## <img src="https://api.iconify.design/lucide:user.svg?color=%2338BDF8" width="30" /> About Me
 
 ```yaml
 name:       Abdul Rehman
@@ -48,7 +48,7 @@ fun_fact:   "Built raabta-ai for Pakistan's AI Seekho 2026 — Google Antigravit
 
 <br/>
 
-## 🛠️ Tech Stack
+## <img src="https://api.iconify.design/lucide:code-2.svg?color=%2338BDF8" width="30" /> Tech Stack
 
 <div align="center">
 
@@ -62,29 +62,29 @@ fun_fact:   "Built raabta-ai for Pakistan's AI Seekho 2026 — Google Antigravit
 
 <br/>
 
-## 🚀 Featured Projects
+## <img src="https://api.iconify.design/lucide:rocket.svg?color=%2338BDF8" width="30" /> Featured Projects
 
 <table align="center" style="border: none;">
   <tr>
     <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px; padding: 16px;">
-      <h3 align="center"><a href="https://github.com/rehmanoncloud9/raabta-ai">🤖 raabta-ai</a></h3>
+      <h3 align="center"><a href="https://github.com/rehmanoncloud9/raabta-ai"><img src="https://api.iconify.design/lucide:bot.svg?color=%23ffffff" width="24" /> raabta-ai</a></h3>
       <p align="center">Pakistan's AI service booking agent built for the <b>AI Seekho 2026</b> Hackathon.</p>
       <p align="center"><img src="https://skillicons.dev/icons?i=flutter,dart,python,cpp&theme=dark" height="30" /></p>
     </td>
     <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px; padding: 16px;">
-      <h3 align="center"><a href="https://github.com/rehmanoncloud9/course-file-organizer">📚 course-file-organizer</a></h3>
+      <h3 align="center"><a href="https://github.com/rehmanoncloud9/course-file-organizer"><img src="https://api.iconify.design/lucide:folder-open.svg?color=%23ffffff" width="24" /> course-file-organizer</a></h3>
       <p align="center">AI-powered desktop app to classify, organize, and index academic documents.</p>
       <p align="center"><img src="https://skillicons.dev/icons?i=python&theme=dark" height="30" /></p>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px; padding: 16px;">
-      <h3 align="center"><a href="https://github.com/rehmanoncloud9/CarRent">🚗 CarRent</a></h3>
+      <h3 align="center"><a href="https://github.com/rehmanoncloud9/CarRent"><img src="https://api.iconify.design/lucide:car.svg?color=%23ffffff" width="24" /> CarRent</a></h3>
       <p align="center">Dual-mode desktop application for comprehensive car rental operations management.</p>
       <p align="center"><img src="https://skillicons.dev/icons?i=qt,cpp&theme=dark" height="30" /></p>
     </td>
     <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px; padding: 16px;">
-      <h3 align="center"><a href="https://github.com/rehmanoncloud9/crime-management-system">🚓 Crime Management</a></h3>
+      <h3 align="center"><a href="https://github.com/rehmanoncloud9/crime-management-system"><img src="https://api.iconify.design/lucide:shield-alert.svg?color=%23ffffff" width="24" /> Crime Management</a></h3>
       <p align="center">A robust database system designed for managing crime records and operations.</p>
       <p align="center"><img src="https://skillicons.dev/icons?i=java,mysql&theme=dark" height="30" /></p>
     </td>
@@ -93,7 +93,7 @@ fun_fact:   "Built raabta-ai for Pakistan's AI Seekho 2026 — Google Antigravit
 
 <br/>
 
-## 📊 GitHub Analytics
+## <img src="https://api.iconify.design/lucide:bar-chart-2.svg?color=%2338BDF8" width="30" /> GitHub Analytics
 
 <div align="center">
   <a href="https://github.com/rehmanoncloud9">
@@ -112,7 +112,7 @@ fun_fact:   "Built raabta-ai for Pakistan's AI Seekho 2026 — Google Antigravit
 
 <br/>
 
-## 🕸️ Contributions
+## <img src="https://api.iconify.design/lucide:git-commit.svg?color=%2338BDF8" width="30" /> Contributions
 
 <div align="center">
   <picture>
