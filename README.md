@@ -1,14 +1,10 @@
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:09090b,100:27272a&height=180&section=header&text=Abdul%20Rehman&fontSize=55&fontColor=38BDF8&animation=fadeIn" />
+<img width="100%" src="https://raw.githubusercontent.com/rehmanoncloud9/rehmanoncloud9/main/assets/header.svg" alt="Abdul Rehman" />
+
+<img src="https://readme-typing-svg.demolab.com?font=Inter&weight=400&size=16&duration=4000&pause=1000&color=8B949E&center=true&vCenter=true&width=600&lines=Building+real-world+software+from+Islamabad%2C+Pakistan;Web+%7C+Desktop+%7C+Mobile+%7C+Databases;CS+Undergraduate+%40+NUST+%E2%80%A2+Founder+%E2%80%A2+Builder" alt="Subtitle" />
 
 <br/>
-
-<a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=700&height=70&lines=Founder+%26+CEO+%40+Stayza+(stayza.pk);Computer+Science+Student+%40+NUST;Desktop%2C+Mobile%2C+and+AI+Developer;Build+it.+Break+it.+Fix+it.+Ship+it." alt="Typing SVG" />
-</a>
-
-<br/><br/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arehman-builds" target="_blank">
@@ -16,7 +12,7 @@
   </a>
   &nbsp;
   <a href="mailto:relentlessrehman@gmail.com">
-    <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   &nbsp;
   <a href="https://github.com/rehmanoncloud9" target="_blank">
@@ -24,161 +20,184 @@
   </a>
   &nbsp;
   <a href="https://iamabdulrehman.vercel.app" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=000000" alt="Portfolio"/>
+    <img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
   </a>
 </p>
 
 <br/>
 
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rehmanoncloud9&label=Profile+Views&color=38BDF8&style=for-the-badge" alt="Profile views" />
-  &nbsp;
-  <img src="https://img.shields.io/github/followers/rehmanoncloud9?label=Followers&style=for-the-badge&color=38BDF8" alt="Followers"/>
-</p>
+<img src="https://komarev.com/ghpvc/?username=rehmanoncloud9&label=Profile+Views&color=38BDF8&style=flat-square" alt="Profile views" />
 
 </div>
 
-<br/><br/>
+---
 
-## <img src="https://api.iconify.design/lucide:user.svg?color=%2338BDF8" width="30" /> Who I Am
+<div align="center">
 
-```typescript
-const abdulRehman = {
-  alias: "rehmanoncloud9",
-  location: "Islamabad, Pakistan",
-  education: "BS Computer Science @ NUST-SEECS (Expected 2029)",
+### Flagship Project
 
-  title: "Founder & CEO @ Stayza | CS Undergraduate",
-  focus: ["Desktop Apps", "Mobile (Flutter)", "Databases", "Backend & Distributed Systems", "AI"],
-  approach: "Build it. Break it. Fix it. Ship it.",
+<a href="https://stayza.pk" target="_blank">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=800&size=20&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=700&lines=stayza.pk;Founded+%26+Built+from+Concept+to+Public+Launch;React+%C2%B7+TypeScript+%C2%B7+Vite+%C2%B7+Supabase" alt="Stayza Typing Banner" />
+</a>
 
-  launched: [
-    "Stayza — stayza.pk (React, TypeScript, Vite, Supabase)",
-    "Personal Portfolio — custom CMS (TanStack Start, React, Vercel)"
-  ],
+<br/>
 
-  currentlyBuilding: [
-    "raabta-ai — AI service booking agent (Flutter + Python)",
-    "course-file-organizer — AI-powered academic document organizer (Python)",
-    "CarRent — dual-mode car rental management system (Qt/C++)"
-  ],
+<a href="https://stayza.pk" target="_blank">
+  <img src="https://img.shields.io/badge/Visit%20Stayza-stayza.pk-38BDF8?style=for-the-badge&logo=vercel&logoColor=white&labelColor=0d1117" alt="Stayza Badge" />
+</a>
 
-  certifications: [
-    "Google Antigravity National Hackathon 2026 — Participation Certificate",
-    "Punjab Boy Scouts Association — Leadership Training"
-  ],
+</div>
 
-  funFact: "Built raabta-ai for Pakistan's AI Seekho 2026 — Google Antigravity Hackathon"
-};
+---
+
+## About Me
+
+```yaml
+name:       Abdul Rehman
+alias:      rehmanoncloud9
+location:   Islamabad, Pakistan
+education:  BS Computer Science @ NUST-SEECS (Expected 2029)
+
+role:       Founder & CEO @ Stayza
+focus:      Desktop Apps · Mobile (Flutter) · Databases · Backend & Distributed Systems
+approach:   Build it. Break it. Fix it. Ship it.
+
+currently_building:
+  - raabta-ai              — AI service booking agent (Flutter + Python)
+  - course-file-organizer  — AI-powered academic document organizer (Python)
+  - CarRent                — Dual-mode car rental management system (Qt/C++)
+
+fun_fact:   Built raabta-ai for Pakistan's AI Seekho 2026 — Google Antigravity Hackathon
 ```
 
-<br/>
+---
 
-## <img src="https://api.iconify.design/lucide:code-2.svg?color=%2338BDF8" width="30" /> Tech Stack
-
-<div align="center">
+## Tech Stack
 
 ### Languages
-<img src="https://skillicons.dev/icons?i=cpp,python,java,dart,js,ts,html,css,mysql&theme=dark&perline=10" />
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=cpp,python,java,dart,js,ts,html,css&theme=dark" />
+</p>
 
 ### Frameworks & Frontend
-<img src="https://skillicons.dev/icons?i=react,tailwind,vite,flutter,qt&theme=dark&perline=10" />
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=react,tailwind,vite,flutter,qt&theme=dark" />
+</p>
 
 ### Backend & Databases
-<img src="https://skillicons.dev/icons?i=fastapi,java,mysql,sqlite,postgres&theme=dark&perline=10" />
-<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" height="48"/>
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=fastapi,java,mysql,sqlite,postgres&theme=dark" />
+  <img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" height="48"/>
+</p>
 
 ### Cloud & Dev Tools
-<img src="https://skillicons.dev/icons?i=vercel,supabase,firebase,git,github,vscode,linux,figma&theme=dark&perline=10" />
 
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=vercel,supabase,firebase,git,github,vscode,linux,figma&theme=dark" />
+</p>
 
-<br/>
+---
 
-## <img src="https://api.iconify.design/lucide:rocket.svg?color=%2338BDF8" width="30" /> Featured Projects
+## Certifications & Achievements
 
-<table align="center" style="border: none;">
-  <tr>
-    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px; padding: 16px;">
-      <h3 align="center"><a href="https://github.com/rehmanoncloud9/raabta-ai"><img src="https://api.iconify.design/lucide:bot.svg?color=%23ffffff" width="24" /> raabta-ai</a></h3>
-      <p align="center">Multilingual AI service booking agent built in a two-person team for the <b>Google Antigravity National Hackathon</b>.</p>
-      <p align="center"><img src="https://skillicons.dev/icons?i=flutter,dart,python&theme=dark" height="30" /></p>
-      <p align="center"><a href="https://github.com/rehmanoncloud9/raabta-ai">🔗 Code</a></p>
-    </td>
-    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px; padding: 16px;">
-      <h3 align="center"><a href="https://github.com/rehmanoncloud9/crime-management-system"><img src="https://api.iconify.design/lucide:shield-alert.svg?color=%23ffffff" width="24" /> Crime Management System</a></h3>
-      <p align="center">Production-grade desktop app for law enforcement, powered by a 48-table relational schema with Hibernate ORM and RBAC.</p>
-      <p align="center"><img src="https://skillicons.dev/icons?i=java,mysql&theme=dark" height="30" /></p>
-      <p align="center"><a href="https://github.com/rehmanoncloud9/crime-management-system">🔗 Code</a></p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px; padding: 16px;">
-      <h3 align="center"><a href="https://github.com/rehmanoncloud9/CarRent"><img src="https://api.iconify.design/lucide:car.svg?color=%23ffffff" width="24" /> CarRent</a></h3>
-      <p align="center">Dual-mode desktop application for comprehensive car rental operations management.</p>
-      <p align="center"><img src="https://skillicons.dev/icons?i=qt,cpp&theme=dark" height="30" /></p>
-      <p align="center"><a href="https://github.com/rehmanoncloud9/CarRent">🔗 Code</a></p>
-    </td>
-    <td width="50%" valign="top" style="border: 1px solid #30363d; border-radius: 6px; padding: 16px;">
-      <h3 align="center"><a href="https://github.com/rehmanoncloud9/course-file-organizer"><img src="https://api.iconify.design/lucide:folder-open.svg?color=%23ffffff" width="24" /> Course File Organizer</a></h3>
-      <p align="center">AI-powered desktop app that automatically classifies, organizes, and indexes academic course documents.</p>
-      <p align="center"><img src="https://skillicons.dev/icons?i=python&theme=dark" height="30" /></p>
-      <p align="center"><a href="https://github.com/rehmanoncloud9/course-file-organizer">🔗 Code</a></p>
-    </td>
-  </tr>
-</table>
+| Certificate | Issuer | Year |
+|:---|:---|:---:|
+| **Google Antigravity National Hackathon — AI Seekho 2026** | Google for Developers | 2026 |
+| **Leadership Training** | Punjab Boy Scouts Association | — |
 
-<br/>
+> **AI Seekho 2026 Hackathon** — Built [raabta-ai](https://github.com/rehmanoncloud9/raabta-ai), a multilingual service marketplace app, in a two-person team during Pakistan's Google Antigravity National Hackathon.
 
-## <img src="https://api.iconify.design/lucide:bar-chart-2.svg?color=%2338BDF8" width="30" /> GitHub Analytics
+---
 
-<div align="center">
-  <a href="https://github.com/rehmanoncloud9">
-    <img src="https://github-stats-extended.vercel.app/api?username=rehmanoncloud9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=38BDF8&title_color=38BDF8" alt="GitHub Stats" />
-  </a>
-  <a href="https://github.com/rehmanoncloud9">
-    <img src="https://streak-stats.demolab.com/?user=rehmanoncloud9&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
-  </a>
-</div>
+## Featured Projects
 
-<br/>
+### [raabta-ai](https://github.com/rehmanoncloud9/raabta-ai) — AI Service Booking Agent
+> Multilingual service marketplace app built for the Google Antigravity National Hackathon.
+
+- **Stack:** Flutter · FastAPI · Firebase
+- **Built:** Backend APIs, booking workflow, authentication, and Firebase data structure
+
+---
+
+### [crime-management-system](https://github.com/rehmanoncloud9/crime-management-system) — Law Enforcement Desktop App
+> Production-grade desktop application powered by a 48-table relational schema.
+
+- **Stack:** Java · JavaFX · Hibernate · MariaDB
+- **Built:** Hibernate ORM mappings, role-based access control, and a full reporting system
+
+---
+
+### [CarRent](https://github.com/rehmanoncloud9/CarRent) — Car Rental Management System
+> Dual-mode desktop application for comprehensive rental operations.
+
+- **Stack:** Qt · C++
+
+---
+
+### [course-file-organizer](https://github.com/rehmanoncloud9/course-file-organizer) — Academic File Organizer
+> AI-powered desktop app that classifies, organizes, and indexes course documents.
+
+- **Stack:** Python
+
+---
+
+## GitHub Stats
 
 <div align="center">
-  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rehmanoncloud9&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8" alt="Top Languages" />
-</div>
+
+<img src="https://github-stats-extended.vercel.app/api?username=rehmanoncloud9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=38BDF8&title_color=38BDF8" alt="GitHub Stats" />
 
 <br/>
+
+<img src="https://streak-stats.demolab.com/?user=rehmanoncloud9&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
+
+</div>
+
+---
+
+## 3D Contribution Graph
 
 <div align="center">
-  <img src="https://github-trophies.vercel.app/?username=rehmanoncloud9&no-frame=true&no-bg=true&theme=tokyonight&column=7" alt="GitHub Trophies"/>
+  <img src="https://raw.githubusercontent.com/rehmanoncloud9/rehmanoncloud9/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
 </div>
 
-<br/>
+---
 
-## <img src="https://api.iconify.design/lucide:git-commit.svg?color=%2338BDF8" width="30" /> Contributions
+## Contribution Snake
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/rehmanoncloud9/rehmanoncloud9/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/rehmanoncloud9/rehmanoncloud9/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/rehmanoncloud9/rehmanoncloud9/output/github-contribution-grid-snake-dark.svg">
-  </picture>
+  <img src="https://raw.githubusercontent.com/rehmanoncloud9/rehmanoncloud9/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </div>
 
-<br/>
+---
+
+## Activity Graph
 
 <div align="center">
   <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=rehmanoncloud9&bg_color=0d1117&color=38BDF8&line=38BDF8&point=FFFFFF&area=true&hide_border=true&area_color=16213e" alt="Activity Graph" />
 </div>
 
-<br/>
+---
+
+## Connect
 
 <div align="center">
-  <img width="100%" src="https://raw.githubusercontent.com/rehmanoncloud9/rehmanoncloud9/main/profile-3d-contrib/profile-night-view.svg" alt="3D Contribution Graph" />
-</div>
+
+| Platform | Link |
+|:---:|:---:|
+| LinkedIn | [arehman-builds](https://www.linkedin.com/in/arehman-builds) |
+| Email | [relentlessrehman@gmail.com](mailto:relentlessrehman@gmail.com) |
+| Live Project | [stayza.pk](https://stayza.pk) |
+| GitHub | [@rehmanoncloud9](https://github.com/rehmanoncloud9) |
+| Portfolio | [iamabdulrehman.vercel.app](https://iamabdulrehman.vercel.app) |
 
 <br/>
 
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:27272a,50:09090b,100:000000&height=120&section=footer&animation=fadeIn" />
+*"Build it. Break it. Fix it. Ship it."*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:1e1b4b,50:0b1224,100:020617&height=100&section=footer&animation=fadeIn" />
+
 </div>
