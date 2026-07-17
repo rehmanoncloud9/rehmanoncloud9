@@ -123,7 +123,7 @@ const abdulRehman = {
 
 <div align="center">
   <a href="https://github.com/rehmanoncloud9">
-    <img src="https://github-readme-stats.vercel.app/api?username=rehmanoncloud9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=38BDF8&title_color=38BDF8" alt="GitHub Stats" />
+    <img src="https://github-stats-extended.vercel.app/api?username=rehmanoncloud9&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0d1117&icon_color=38BDF8&title_color=38BDF8" alt="GitHub Stats" />
   </a>
   <a href="https://github.com/rehmanoncloud9">
     <img src="https://streak-stats.demolab.com/?user=rehmanoncloud9&theme=tokyonight&hide_border=true&background=0D1117&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub Streak" />
@@ -133,13 +133,13 @@ const abdulRehman = {
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rehmanoncloud9&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8" alt="Top Languages" />
+  <img src="https://github-stats-extended.vercel.app/api/top-langs/?username=rehmanoncloud9&layout=compact&theme=tokyonight&hide_border=true&bg_color=0d1117&title_color=38BDF8" alt="Top Languages" />
 </div>
 
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rehmanoncloud9&no-frame=true&no-bg=true&theme=tokyonight&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=rehmanoncloud9&no-frame=true&no-bg=true&theme=tokyonight&column=7" alt="GitHub Trophies"/>
 </div>
 
 <br/>
