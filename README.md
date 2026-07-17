@@ -85,7 +85,8 @@ const abdulRehman = {
 <img src="https://skillicons.dev/icons?i=react,tailwind,vite,flutter,qt&theme=dark&perline=10" />
 
 ### Backend & Databases
-<img src="https://skillicons.dev/icons?i=fastapi,java,mariadb,mysql,sqlite,postgres&theme=dark&perline=10" />
+<img src="https://skillicons.dev/icons?i=fastapi,java,mysql,sqlite,postgres&theme=dark&perline=10" />
+<img src="https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white" alt="MariaDB" height="48"/>
 
 ### Cloud & Dev Tools
 <img src="https://skillicons.dev/icons?i=vercel,supabase,firebase,git,github,vscode,linux,figma&theme=dark&perline=10" />
