@@ -2,33 +2,43 @@
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:000000,50:09090b,100:27272a&height=180&section=header&text=Abdul%20Rehman&fontSize=55&fontColor=38BDF8&animation=fadeIn" />
 
+<br/>
+
 <a href="https://git.io/typing-svg">
-  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=700&height=60&lines=Founder+%26+CEO+%40+Stayza+(stayza.pk);Computer+Science+Student+%40+NUST;Desktop%2C+Mobile%2C+and+AI+Developer;Build+it.+Break+it.+Fix+it.+Ship+it." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Inter&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=true&width=700&height=70&lines=Founder+%26+CEO+%40+Stayza+(stayza.pk);Computer+Science+Student+%40+NUST;Desktop%2C+Mobile%2C+and+AI+Developer;Build+it.+Break+it.+Fix+it.+Ship+it." alt="Typing SVG" />
 </a>
 
-<br/>
+<br/><br/>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/arehman-builds" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
   </a>
+  &nbsp;
   <a href="mailto:relentlessrehman@gmail.com">
     <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
+  &nbsp;
   <a href="https://github.com/rehmanoncloud9" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-161B22?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
+  &nbsp;
   <a href="https://iamabdulrehman.vercel.app" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-38BDF8?style=for-the-badge&logo=vercel&logoColor=000000" alt="Portfolio"/>
   </a>
 </p>
 
-<img src="https://komarev.com/ghpvc/?username=rehmanoncloud9&label=Profile+Views&color=38BDF8&style=for-the-badge" alt="Profile views" />
-<img src="https://img.shields.io/github/followers/rehmanoncloud9?label=Followers&style=for-the-badge&color=38BDF8" alt="Followers"/>
+<br/>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=rehmanoncloud9&label=Profile+Views&color=38BDF8&style=for-the-badge" alt="Profile views" />
+  &nbsp;
+  <img src="https://img.shields.io/github/followers/rehmanoncloud9?label=Followers&style=for-the-badge&color=38BDF8" alt="Followers"/>
+</p>
 
 </div>
 
-<br/>
+<br/><br/>
 
 ## <img src="https://api.iconify.design/lucide:user.svg?color=%2338BDF8" width="30" /> Who I Am
 
@@ -139,7 +149,7 @@ const abdulRehman = {
 <br/>
 
 <div align="center">
-  <img src="https://github-profile-trophy-liard-delta.vercel.app/?username=rehmanoncloud9&no-frame=true&no-bg=true&theme=tokyonight&column=7" alt="GitHub Trophies"/>
+  <img src="https://github-trophies.vercel.app/?username=rehmanoncloud9&no-frame=true&no-bg=true&theme=tokyonight&column=7" alt="GitHub Trophies"/>
 </div>
 
 <br/>
